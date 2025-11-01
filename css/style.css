@@ -9,7 +9,7 @@
   color: #d01418;
 }
 .bg-section {
-  background-image: url("./img/fondo.jpg");
+  background-image: url("../img/fondo.jpg");
   background-size: cover;
   height: 50vh;
 }
@@ -31,7 +31,7 @@
   margin: 25px 50px;
 }
 .bg-sillagamer {
-  background-image: url("./img/sillagamer.jpg");
+  background-image: url("../img/sillagamer.jpg");
   background-size: cover;
   font-size: cover;
   height: 135px;
@@ -40,7 +40,7 @@
   border: 1px solid rgb(1, 128, 1);
 }
 .bg-computadora {
-  background-image: url("./img/computadora.jpg");
+  background-image: url("../img/computadora.jpg");
   background-size: cover;
   height: 135px;
   max-width: 361px;
